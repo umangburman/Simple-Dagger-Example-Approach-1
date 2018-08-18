@@ -1,4 +1,4 @@
-# simple-dagger2-android-login-example
+# Very Simple Login Example using Dagger2 DI Android
 
 This is a very simple **Login Example of Dependency Injection using Dagger 2** in Android. 
 
